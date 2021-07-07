@@ -1,0 +1,2 @@
+1.dotnet new console
+dotnet run
