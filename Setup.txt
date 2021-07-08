@@ -1,2 +1,4 @@
-1.dotnet new console
+VSCode
+dotnet new console
 dotnet run
+CTRL+SHIFT+E for explorer
